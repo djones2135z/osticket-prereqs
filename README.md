@@ -37,19 +37,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 Step 2 – Creating an Azure account.
-<img src="https://imgur.com/y4ZDi3Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/y4ZDi3Z.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- On the home page type into the search bar for subcriptions and click on the subscriptions icon to verify that you have a subscription. <br>
+(The subscription will last 30 days and you will have up to $200 dollars in credit to use for free. <br>
+  -Afterward you will need to pay for the azure services). <br>
 </p>
 <br />
 
 <p>
 Step 3 – Setting up our Resource Group
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EKpz4wo.png" height="80%" width="80%"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After verifying that you have a subscription go to the search bar and type in resource group and click on the service. <br>
+
+
+<img src="https://imgur.com/EKpz4wo.png" height="80%" width="80%"/>
 </p>
 <br />
 
