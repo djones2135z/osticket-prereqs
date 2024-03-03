@@ -47,15 +47,17 @@ Step 2 – Creating an Azure account.
 <br />
 
 <p>
-Step 3 – Setting up our Resource Group
+Step 3 – Setting up our Resource Group <br>
+  After verifying that you have a subscription go to the search bar and type in resource group and click on the service. <br>
 <img src="https://imgur.com/EKpz4wo.png" height="80%" width="80%"/>
 
 </p>
 <p>
-After verifying that you have a subscription go to the search bar and type in resource group and click on the service. <br>
-
-
-<img src="https://imgur.com/EKpz4wo.png" height="80%" width="80%"/>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+<p>
+  
 </p>
 <br />
 
