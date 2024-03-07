@@ -285,119 +285,170 @@ Go to sites inside IIS, Default web site, osTicket.
 
 
 <p>
-   
+   osTicket set up should appear. If it does not appear then retry downloading and moving the upload folder.
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/zIBfzHG.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Go back to IIS and click on PHP Manager.
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/v7LBtnr.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Go to the PHP Extensions and click on enable or disable an extension
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/B8SMIia.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Enable these extensions <br>
+php_imap.dll <br>
+php_intl.dll <br> 
+php_opache.dll
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/WQWW6fc.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Refresh the ostTicket setup to make sure the extensions are enabled. 
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/eMly0gL.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   If these are not enabled go back to the PHP manager and check the extensions to make sure they are enabled. <br>
+Go to the osTicket in the wwwroot folder. Go to the include folder. Rename the ost-sampleconfig.php file to ost-config.php
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/WUXhW0s.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Right click the file and go to properties.
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/WTE9OTy.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Go to the security tab and click the advanced button
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/fMUuJqu.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Click the disable inheritance and then click remove all inherited permissions from this object.
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/gfbNJvw.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Click add and then select principal.  Name the object everything
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/AKO1EjY.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Select all the permissions and hit ok.
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/iyIEhI7.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Hit apply and then ok. <br>
+Go back to the osTicket installer and click contin
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/M2ct4pL.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   You can name the helpdesk and, default email, and admin user whatever you want. Make sure to write this down to make sure you have access.
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/4lf1VHw.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   From the Installation files download and install HeidiSQL. <br>
+Open Heidi SQL and create a new session. <br>
+Enter the user name and password you created when you installed SQL.
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/CEfM8AO.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Hit open and it should take you to this window.
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/x6QCQ37.png" height="80%" width="80%"/>
 </p>
 
 
 <p>
-   
+   Go back to the osTicket installer. <br>
+Enter the MySQL username and password that you used with Heidi.
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/F3EPad2.png" height="80%" width="80%"/>
 </p>
 
+<p>
+   Go back to HeidiSql. We are now going to create a session called osTicket. <br>
+Go to unamed, create new, and database.
+ <br>
+<img src="https://imgur.com/SoFxg1M.png" height="80%" width="80%"/>
+</p>
 
 <p>
-   
+   Name the database osTicket
  <br>
-<img src=".png" height="80%" width="80%"/>
+<img src="https://imgur.com/sOlnfO6.png" height="80%" width="80%"/>
+</p>
+
+<p>
+   Name the MySQL database osTicket and hit Install Now.
+ <br>
+<img src="https://imgur.com/RbOgXKu.png" height="80%" width="80%"/>
+</p>
+
+<p>
+   You should see Congratulations, and now we have to clean up a few things <br>
+Go to the setup folder in the osTicket. (C:\inetpub\wwwroot\psTicket\setup) And delete it.
+ <br>
+<img src="https://imgur.com/2pOZh5J.png" height="80%" width="80%"/>
+</p>
+
+<p>
+   Go to ost-config.php as we are going to set the permissions to read only.
+ <br>
+<img src="https://imgur.com/7EceJwO.png" height="80%" width="80%"/>
+</p>
+
+<p>
+   Go to http://localhost/osTicket/scp/login.php <br>
+Log into the help desk log in page. It should be the username and password you created when you were installing osTicket.
+ <br>
+<img src="https://imgur.com/NWFLGwM.png" height="80%" width="80%"/>
+</p>
+
+<p>
+   You should see this webpage when you are finished logging in.
+ <br>
+<img src="https://imgur.com/HQ9uLm8.png" height="80%" width="80%"/>
+</p>
+
+<p>
+   Congratulations, you have installed osTicket by using Azure and creating a VM to host it.
+ <br>
 </p>
