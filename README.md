@@ -56,10 +56,110 @@ Step 3 – Setting up our Resource Group <br>
 Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
 <img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
 </p>
+
 <p>
-  
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
 </p>
-<br />
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+<p>
+Click on Create resource group in the blue box to being creating a resource group to hold our VM. <br>
+<img src="https://imgur.com/GMhlspQ.png" height="80%" width="80%"/>
+</p>
+
+
+
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
